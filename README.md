@@ -27,11 +27,13 @@ The project was developed to understand the fundamentals of smart home automatio
 - Embedded C Programming
 ## Project Images
 
-### Hardware Setup
-![Hardware Setup](Images/image 1.jpg)
+## Project Images
 
-### Blynk Interface
-![Blynk Interface](Images/image 2.jpg)
+### 1. Hardware Setup
+<img src="Images/image 1.jpg" width="500"/>
+
+### 2. Blynk IoT Interface
+<img src="Images/image 2.jpg" width="500"/>
 ## Working Principle
 
 The system works using Wi-Fi communication between the ESP32 microcontroller and the Blynk IoT mobile application.
