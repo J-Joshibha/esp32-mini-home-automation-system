@@ -29,10 +29,10 @@ The project was developed to understand the fundamentals of smart home automatio
 
 ## Project Images
 
-### 1. Hardware Setup
+### 1. Blynk IoT Interface 
 <img src="Images/image 1.jpg" width="500"/>
 
-### 2. Blynk IoT Interface
+### 2. Hardware Setup
 <img src="Images/image 2.jpg" width="500"/>
 ## Working Principle
 
