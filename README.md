@@ -43,6 +43,13 @@ Initially, virtual switches were created within the Blynk application to control
 The ESP32 was programmed using Embedded C in Arduino IDE and connected to a Wi-Fi network. When the user presses the virtual switch in the Blynk application, a command is transmitted through the internet to the ESP32 module. The ESP32 processes the received command and controls the connected output devices by turning them ON or OFF accordingly.
 
 This project demonstrates the basic implementation of smart home automation using IoT concepts and wireless communication.
+## Pin Connections
+
+| Component | ESP32 Pin |
+|---|---|
+| Red LED | GPIO 4 |
+| Green LED | GPIO 2 |
+| GND | GND |
 ## Features
 
 - Remote ON/OFF control of devices
